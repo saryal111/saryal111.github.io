@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "MATRIX Lab"
+title: "Welcome to the **MATRIX Lab**"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to the **MATRIX Lab**
 
 The MATRIX Lab — Membrane, Aerospace, and Transport for Integrated Systems — at the University of Maryland Eastern Shore explores the science of heat, water, and mass transport in engineered systems. Our research focuses on  membrane- based technologies, aerospace thermal management, aircraft environmental control systems, and controlled environment agriculture for Earth-based and space-based applications. By combining experiments, transport modeling, and system-level design, the lab develops sustainable technologies for efficient climate control, water management, and resource use in aircraft, greenhouses, and future space habitats.
 
