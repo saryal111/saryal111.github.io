@@ -2,6 +2,9 @@
 permalink: /
 title: "Welcome to the **MATRIX Lab**"
 author_profile: true
+header:
+  overlay_image: /images/MATRIX.png
+  overlay_filter: 0.5
 redirect_from: 
   - /about/
   - /about.html
