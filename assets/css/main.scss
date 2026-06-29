@@ -56,3 +56,12 @@ body::before {
   background-color: rgba(255, 255, 255, 0.55);
   z-index: -1;
 }
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar p,
+.sidebar .author__urls li,
+.sidebar .author__urls a,
+.sidebar .author__urls a .svg-inline--fa {
+  color: #4a7c2f !important;
+  text-shadow: 0 0 4px #ffffff, 0 0 5px #ffffff, 0 0 5px #ffffff !important;
+}
