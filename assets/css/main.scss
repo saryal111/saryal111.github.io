@@ -67,3 +67,9 @@ body::before {
     0 0 6px #ffffff;
   font-weight: 600;
 }
+.page__content,
+.archive {
+  background-color: rgba(225, 236, 248, 0.75);
+  padding: 25px;
+  border-radius: 8px;
+}
