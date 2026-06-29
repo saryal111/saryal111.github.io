@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the **MATRIX Lab**"
+title: "**MATRIX Lab**"
 author_profile: true
 
 redirect_from: 
