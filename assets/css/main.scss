@@ -93,3 +93,21 @@ body::before {
      0 0 8px #ffffff !important;
 }
 
+.page__title,
+.archive__item-title,
+h1.page__title {
+  color: #2e8b22 !important;
+  text-shadow:
+    -1px -1px 0 #ffffff,
+     1px -1px 0 #ffffff,
+    -1px  1px 0 #ffffff,
+     1px  1px 0 #ffffff,
+     0 0 6px #ffffff !important;
+  font-weight: 700 !important;
+}
+.masthead .site-title,
+.greedy-nav .site-title,
+a.site-title {
+  color: #2e8b22 !important;
+  font-weight: 700 !important;
+}
