@@ -69,7 +69,7 @@ body::before {
 }
 .page__content,
 .archive {
-  background-color: rgba(225, 236, 248, 0.75);
+  background-color: rgba(225, 236, 248, 0.95); !important;
   padding: 25px;
   border-radius: 8px;
 }
