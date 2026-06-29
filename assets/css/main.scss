@@ -76,3 +76,19 @@ body::before {
   color: #2e8b22 !important;
   text-shadow: 0 0 4px #ffffff, 0 0 5px #ffffff, 0 0 6px #ffffff !important;
 }
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar p,
+.sidebar .author__urls li,
+.sidebar .author__urls a,
+.sidebar .author__urls a .svg-inline--fa {
+  color: #2e8b22 !important;
+  font-weight: 700 !important;
+  text-shadow:
+    -1px -1px 0 #ffffff,
+     1px -1px 0 #ffffff,
+    -1px  1px 0 #ffffff,
+     1px  1px 0 #ffffff,
+     0 0 6px #ffffff,
+     0 0 8px #ffffff !important;
+}
