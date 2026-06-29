@@ -38,7 +38,6 @@
     "layout/json_cv"
 ;
 body {
-  position: relative;
   background-image: url('/images/MATRIX.png');
   background-size: cover;
   background-position: center;
@@ -53,57 +52,29 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(255, 255, 255, 0.45);
+  background-color: rgba(255, 255, 255, 0.4);
   z-index: -1;
 }
-.page__content,
-.page__content p,
-.page__content li,
-.archive {
-  color: #0a0a0a;
-  text-shadow:
-    0 0 6px #ffffff,
-    0 0 6px #ffffff,
-    0 0 6px #ffffff;
-  font-weight: 600;
-}
+
 .page__content,
 .archive {
-  background-color: rgba(225, 236, 248, 0.75); !important;
-  padding: 25px;
-  border-radius: 8px;
-}
-.sidebar,
-.author__avatar,
-.author__content,
-.author__name,
-.author__bio {
   background-color: rgba(225, 236, 248, 0.95) !important;
-  padding: 15px;
-  border-radius: 8px;
+  padding: 25px !important;
+  border-radius: 8px !important;
   color: #0a0a0a !important;
 }
 
-.sidebar a,
-.author__urls a {
-  color: #1a3a5c !important;
-}
 .sidebar.sticky,
 .sidebar {
-  background-color: rgba(225, 236, 248, 0.97) !important;
+  background-color: rgba(225, 236, 248, 0.95) !important;
   padding: 20px !important;
   border-radius: 10px !important;
 }
 
 .sidebar .author__name,
 .sidebar .author__bio,
-.sidebar .author__urls-wrapper,
+.sidebar p,
 .sidebar .author__urls li,
-.sidebar .author__urls a,
-.sidebar p {
-  color: #0a0a0a !important;
-}
-
 .sidebar .author__urls a {
-  color: #1a3a5c !important;
+  color: #0a0a0a !important;
 }
