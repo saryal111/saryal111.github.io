@@ -73,3 +73,18 @@ body::before {
   padding: 25px;
   border-radius: 8px;
 }
+.sidebar,
+.author__avatar,
+.author__content,
+.author__name,
+.author__bio {
+  background-color: rgba(225, 236, 248, 0.95) !important;
+  padding: 15px;
+  border-radius: 8px;
+  color: #0a0a0a !important;
+}
+
+.sidebar a,
+.author__urls a {
+  color: #1a3a5c !important;
+}
