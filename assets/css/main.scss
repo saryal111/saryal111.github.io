@@ -98,16 +98,18 @@ body::before {
 }
 
 .masthead__inner-wrap {
+  background: transparent !important;
   border-bottom: none !important;
 }
 
-.masthead .site-title,
-.greedy-nav a,
-.greedy-nav .site-title {
-  color: #ffffff !important;
+.greedy-nav {
+  background: transparent !important;
 }
 
-.greedy-nav {
+.greedy-nav .site-title,
+.greedy-nav a,
+.masthead .site-title {
+  color: #ffffff !important;
   background: transparent !important;
 }
 
@@ -115,6 +117,16 @@ body::before {
   color: #d4e8f7 !important;
 }
 
+.greedy-nav .visible-links a {
+  background: transparent !important;
+}
+
 .greedy-nav button {
   background: #1a4d7a !important;
+}
+
+.greedy-nav button .navicon,
+.greedy-nav button .navicon::before,
+.greedy-nav button .navicon::after {
+  background: #ffffff !important;
 }
