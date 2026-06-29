@@ -130,3 +130,16 @@ body::before {
 .greedy-nav button .navicon::after {
   background: #ffffff !important;
 }
+.masthead *,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav ul,
+.greedy-nav li,
+.visible-links,
+.hidden-links {
+  background-color: transparent !important;
+}
+
+.masthead {
+  background: linear-gradient(135deg, #1a4d7a 0%, #2980b9 100%) !important;
+}
