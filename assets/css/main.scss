@@ -124,3 +124,14 @@ a.site-title {
   color: #d11a1a !important;
   font-weight: 700 !important;
 }
+.people-page {
+  position: relative;
+  z-index: 1;
+}
+.page__content {
+  background-color: rgba(225, 236, 248, 0.95) !important;
+  position: relative;
+  z-index: 1;
+  padding: 25px !important;
+  border-radius: 8px !important;
+}
