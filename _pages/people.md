@@ -8,14 +8,13 @@ author_profile: true
 
 ## Principal Investigator
 
-**Dr. Sandeep Aryal**
-Ph.D., Mechanical Engineering
-M.S., Mechanical Engineering
-B.E., Mechanical Engineering
-
-Assistant Professor, Department of Engineering and Aviation Sciences
+**Dr. Sandeep Aryal**<br>
+Ph.D., Mechanical Engineering<br>
+M.S., Mechanical Engineering<br>
+B.E., Mechanical Engineering<br>
+<br>
+Assistant Professor, Department of Engineering and Aviation Sciences<br>
 University of Maryland Eastern Shore
-
 📧 saryal@umes.edu
 
 ## Graduate Students
