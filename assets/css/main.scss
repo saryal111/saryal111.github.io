@@ -111,3 +111,16 @@ a.site-title {
   color: #2e8b22 !important;
   font-weight: 700 !important;
 }
+/* People page only — green text */
+.people-page,
+.people-page h2,
+.people-page p,
+.people-page strong {
+  color: #2e8b22 !important;
+}
+
+/* "Now recruiting" in red */
+.people-page .recruiting {
+  color: #d11a1a !important;
+  font-weight: 700 !important;
+}
