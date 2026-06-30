@@ -135,3 +135,27 @@ a.site-title {
   padding: 25px !important;
   border-radius: 8px !important;
 }
+/* Publications page — solid panel + readable text */
+.archive,
+.list__item,
+.archive__item {
+  position: relative;
+  z-index: 1;
+}
+
+.list__item {
+  background-color: rgba(225, 236, 248, 0.95) !important;
+  padding: 18px !important;
+  border-radius: 8px !important;
+  margin-bottom: 15px !important;
+}
+
+.archive__item-title,
+.archive__item-title a {
+  color: #1a4d7a !important;
+}
+
+.archive__item-excerpt,
+.archive__item p {
+  color: #0a0a0a !important;
+}
