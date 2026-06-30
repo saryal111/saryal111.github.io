@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Demonstration of a fertilizer-based liquid desiccant prototype for controlled plant environments"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-fertilizer-liquid-desiccant
+excerpt: '<img src="/images/pub1.png" width="250">'
+date: 2026-03-01
+venue: 'Journal of Cleaner Production'
+paperurl: 'https://doi.org/10.1016/j.jclepro.2026.147864'
+citation: 'S. Aryal, F. Caragay, D. Monfet, M. Lefsrud, and J. Maisonneuve, &quot;Demonstration of a fertilizer-based liquid desiccant prototype for controlled plant environments,&quot; Journal of Cleaner Production, vol. 549, Art. no. 147864, Mar. 2026.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<img src="/images/pub1.png" width="300"><br>
+
+This work demonstrates a fertilizer-based liquid desiccant prototype that controls humidity in plant growth environments while using a nutrient solution as the drying agent.
