@@ -1,5 +1,4 @@
 ---
----
 title: "Energy efficiency of using a novel fertilizer-based liquid desiccant system to dehumidify indoor plant environments: An experimental analysis"
 collection: publications
 category: manuscripts
