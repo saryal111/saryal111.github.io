@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Investigating the effects of design parameters on heat transfer rate and fouling factor in full-scale gas-to-gas coolers: A numerical study"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-gas-to-gas-coolers
+excerpt: '<img src="/images/pub3.png" width="250">'
+date: 2025-01-01
+venue: 'International Journal of Thermal Sciences'
+paperurl: ''
+citation: 'S. Aryal, S. Lee, and K. Jeong, &quot;Investigating the effects of design parameters on heat transfer rate and fouling factor in full-scale gas-to-gas coolers: A numerical study,&quot; International Journal of Thermal Sciences, vol. 211, Art. no. 109721, 2025.'
 ---
+<img src="/images/pub3.png" width="300"><br>
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This numerical study uses a MATLAB-based single-tube finite difference model to investigate how design parameters — transverse pitch, longitudinal pitch, fin height, and fin density — affect heat transfer rates and fouling factors in full-scale gas-to-gas coolers, validated against measured power plant data.
