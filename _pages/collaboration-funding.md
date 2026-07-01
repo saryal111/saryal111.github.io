@@ -12,6 +12,8 @@ The MATRIX Lab is proud to collaborate with and receive support from the followi
   <div class="logo-card"><img src="/images/logo-lockheed.png" alt="Lockheed Martin"></div>
   <div class="logo-card"><img src="/images/logo-doosan.png" alt="Doosan Enerbility"></div>
   <div class="logo-card"><img src="/images/logo-dte.png" alt="DTE"></div>
+  <div class="logo-card"><img src="/images/logo-nrel.png" alt="NREL"></div>
+  <div class="logo-card"><img src="/images/logo-ets.png" alt="ETS"></div>
 </div>
 
 *Interested in collaborating? Contact Dr. Aryal at saryal@umes.edu.*
