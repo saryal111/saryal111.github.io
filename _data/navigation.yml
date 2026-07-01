@@ -12,7 +12,6 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
-  - title: "Collaborators"
-    url: /collaborators/
-  - title: "Funding"
-    url: /funding/
+  - title: "Collaboration & Funding"
+    url: /collaborations & funding/
+ 
