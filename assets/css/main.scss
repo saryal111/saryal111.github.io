@@ -204,3 +204,22 @@ html {
 body {
   min-height: 100vh;
 }
+/* Allow sidebar text to wrap fully */
+.sidebar,
+.author__content,
+.author__urls,
+.author__urls li {
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  white-space: normal !important;
+  overflow: visible !important;
+}
+
+.author__urls {
+  max-width: 100% !important;
+}
+
+.author__urls li {
+  display: flex !important;
+  align-items: flex-start !important;
+}
