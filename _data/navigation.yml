@@ -10,9 +10,9 @@
 main:
   - title: "People"
     url: /people/
+  - title: "Ongoing Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Collaboration & Funding"
     url: /collaboration-funding/
-    - title: "Ongoing Research"
-    url: /research/
