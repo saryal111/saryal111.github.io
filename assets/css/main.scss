@@ -159,3 +159,29 @@ a.site-title {
 .archive__item p {
   color: #0a0a0a !important;
 }
+/* Logo grid — uniform cards, side by side */
+.logo-grid {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 20px !important;
+  margin: 25px 0 !important;
+  justify-content: flex-start !important;
+}
+
+.logo-card {
+  background: #ffffff !important;
+  border-radius: 10px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12) !important;
+  width: 180px !important;
+  height: 110px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 15px !important;
+}
+
+.logo-card img {
+  max-width: 100% !important;
+  max-height: 100% !important;
+  object-fit: contain !important;
+}
